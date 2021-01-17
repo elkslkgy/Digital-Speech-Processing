@@ -1,5 +1,0 @@
-$digit=ling | yi   | er   | san  | si   | wu   | liu  | qi   | ba   | jiu ;
-$digit_sp=$digit sp;
-(
-sil {$digit_sp} $digit sil
-)
